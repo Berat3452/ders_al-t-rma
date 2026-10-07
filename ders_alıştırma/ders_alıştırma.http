@@ -1,0 +1,6 @@
+@ders_alıştırma_HostAddress = http://localhost:5089
+
+GET {{ders_alıştırma_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
